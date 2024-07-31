@@ -2,7 +2,7 @@ const weatherForm = document.querySelector('form')
 const region = document.querySelector('input')
 const msg1 = document.querySelector('#msg-1')
 const msg2 = document.querySelector('#msg-2')
-msg1.textContent = 'Waiting for your input'
+msg1.textContent = 'Waiting for your input !'
 msg2.textContent = ''
 weatherForm.addEventListener('submit', (e) => {
     e.preventDefault();
