@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@northflank/cli": "^0.9.20",
     "express": "^4.19.2",
     "hbs": "^4.2.0",
     "postman-request": "^2.88.1-postman.36"

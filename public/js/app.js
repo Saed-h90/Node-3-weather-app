@@ -1,4 +1,3 @@
-console.log('hi')
 const weatherForm = document.querySelector('form')
 const region = document.querySelector('input')
 const msg1 = document.querySelector('#msg-1')
